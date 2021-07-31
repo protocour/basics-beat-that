@@ -77,7 +77,6 @@ var main = function (input) {
       myOutputValue = `Player 1, you chose Dice 2 first. Your number is ${p1Results}. It is now Player 2's turn.`;
       // player = 2;
     }
-    player = 2;
     return myOutputValue;
   }
   // run for player 2
